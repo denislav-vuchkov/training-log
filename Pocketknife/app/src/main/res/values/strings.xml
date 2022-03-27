@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Pocketknife</string>
+
+    <!-- Training Log Fragment -->
+    <string name="TRAINING_LOG_TITLE">Strength Standards</string>
+
+    <!-- Title texts for the empty view [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No workouts performed...</string>
+    <string name="empty_view_subtitle_text">Get started by adding an exercise</string>
+
+    <!-- Activity titles for the  to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_entry">Add an Exercise</string>
+    <string name="editor_activity_title_edit_entry">Edit Exercise</string>
+
+    <!-- Labels for editor menu options [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast messages in editor [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_successful">Exercise saved</string>
+    <string name="editor_insert_failed">Error with saving exercise</string>
+    <string name="editor_update_successful">Exercise updated</string>
+    <string name="editor_update_failed">Error with updating exercise</string>
+    <string name="editor_delete_successful">Exercise deleted</string>
+    <string name="editor_delete_failed">Error with deleting exercise</string>
+
+    <!-- Dialog messages in editor [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this exercise?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="TL_exercise">Exercise</string>
+    <string name="TL_sets">Sets</string>
+    <string name="TL_date">Date</string>
+    <string name="TL_set">Set</string>
+
+    <!-- Exercises [CHAR LIMIT=30] -->
+    <string name="back_squat">Back Squat</string>
+    <string name="front_squat">Front Squat</string>
+    <string name="leg_press">Leg Press</string>
+    <string name="lunges">Lunges</string>
+    <string name="standing_calf_raise">Standing Calf Raise</string>
+    <string name="seated_calf_raise">Seated Calf Raise</string>
+    <string name="flat_bench_press">Flat Bench Press</string>
+    <string name="incline_bench_press">Incline Bench Press"</string>
+    <string name="standing_overhead_press">Standing Overhead Press</string>
+    <string name="dip">Dip</string>
+    <string name="pull_up">Pull-Up</string>
+    <string name="chin_up">Chin-Up</string>
+    <string name="lat_pull_down">Lat Pull-Down</string>
+    <string name="pendlay_row">Pendlay Row</string>
+    <string name="bent_over_row">Bent-Over Row</string>
+    <string name="conventional_deadlift">Conventional Deadlift</string>
+    <string name="sumo_deadlift">Sumo Deadlift</string>
+
+    <!-- Text hints for fields in the editor [CHAR LIMIT=30] -->
+    <string name="hint_exercise">Exercise</string>
+    <string name="hint_repetitions">Reps</string>
+    <string name="hint_load">Load</string>
+    <string name="hint_date">Date</string>
+
+    <!-- Units for weight of the pet (kilograms) [CHAR LIMIT=5] -->
+    <string name="label_kg">kg</string>
+
+    <!-- Strength Standards Fragment -->
+    <string name="STRENGTH_STANDARDS_TITLE">Strength Standards</string>
+
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="unit">Unit</string>
+    <string name="kg">KG</string>
+    <string name="lb">LB</string>
+
+    <string name="strength_level">Strength Level</string>
+    <string name="exercise">Exercise</string>
+    <string name="military_press">Military Press</string>
+    <string name="bench_press">Bench Press</string>
+    <string name="squat">Squat</string>
+    <string name="deadlift">Deadlift</string>
+    <string name="power_clean">Power Clean</string>
+
+    <string name="disclosure">This is an unofficial reproduction of One-Repetition
+        Maximum Standards published by Starting Strength Website in 2012.</string>
+
+
+
+    <!-- Reps Calculator Standards Fragment -->
+    <string name="REPS_CALCULATOR_TITLE">Reps Calculator</string>
+
+    <string name="RC_reps_performed">Reps Performed</string>
+    <string name="RC_weight_lifted">Weight Lifted</string>
+    <string name="RC_calculate">Calculate</string>
+
+    <string name="RC_weight_estimation">Weight Estimation</string>
+    <string name="RC_Formula">Formula</string>
+    <string name="RC_average">Average</string>
+    <string name="RC_brzycki">Brzycki</string>
+    <string name="RC_epley">Epley</string>
+    <string name="RC_lander">Lander</string>
+    <string name="RC_percentages_of_1rm">Percentages of 1RM</string>
+
+</resources>
